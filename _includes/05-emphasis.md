@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Greetings*
+_Hey _
+
+**My name is Vaibhav**
+__Welcome to my page__
+
+_Thanks and Regards_
